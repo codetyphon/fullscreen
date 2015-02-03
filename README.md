@@ -1,0 +1,2 @@
+# fullscreen
+全屏
